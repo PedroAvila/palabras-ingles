@@ -1,0 +1,17 @@
+
+umbrella = paraguas
+somebody = alguien
+already = ya
+something = algo
+about = acerca de
+key = llave
+begin = comience
+places = lugares
+carefull = con cuidado
+got = tiene
+havent't = no tengo
+statements = declaraciones
+hair = pelo
+blond = rubia
+about = sobre
+issues = cuestiones
