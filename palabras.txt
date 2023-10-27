@@ -37,3 +37,6 @@ learn = aprender
 shoner = ducha
 each = cada
 sentence = frase
+I = yo
+walk = camino
+fat = rápido
