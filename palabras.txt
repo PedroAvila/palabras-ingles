@@ -42,3 +42,13 @@ walk = camino
 fast = rápido
 need = necesitar
 skirt = falda
+play = jugar
+those = esos
+but = pero
+fireplace = chimenea
+kitchen = cocina
+chair = silla
+basement = sótano
+bedroom = dormitorio
+beds = camas
+ 
