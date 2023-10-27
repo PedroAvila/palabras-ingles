@@ -40,3 +40,5 @@ sentence = frase
 I = yo
 walk = camino
 fast = rápido
+need = necesitar
+skirt = falda
