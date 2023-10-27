@@ -39,4 +39,4 @@ each = cada
 sentence = frase
 I = yo
 walk = camino
-fat = rápido
+fast = rápido
